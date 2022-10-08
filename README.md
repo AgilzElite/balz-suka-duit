@@ -11,7 +11,7 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 </p>
 
 <p align="center">
- <a href="#"><img title="ElainaBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="BalzBotz" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/balzbot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
@@ -61,9 +61,9 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 
 ## `SETTING` ⚙️
 
-- Owner Number [Here](https://gtihub.com/yandex)
-- Owner Name [Here](https://gtihub.com/yandex)
-- Bot Name [Here](https://gtihub.com/yandex)
+- Owner Number [Here](https://wa.me/6285743137623)
+- Owner Name [Here](balzelite)
+- Bot Name [Here](Balz Botz)
 ---------
 
 ## ```Heroku Buildpack```
