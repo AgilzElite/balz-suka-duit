@@ -5,16 +5,16 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 <p align="center">
     <img src="https://telegra.ph/file/37df69a78afb6e010282d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">ElainaBOT - MD</h1>
+<h1 align="center">Balz Botz Ofc - MD</h1>
 <p align="center">
-  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/balzbot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
  <a href="#"><img title="ElainaBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/balzbot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
@@ -22,18 +22,18 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 ---------
 
 ## ```Connect With Me 📞``` 
-  <a href="https://wa.me/6285736178354">
+  <a href="https://wa.me/6285743137623">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/Xiao_yan_21">
+  <a href="https://www.instagram.com/balzelite">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:yanxiao021@gmail.com">
+  <a href="mailto:yandex@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6285736178354"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Whatsapp``` <a href="https://wa.me/6285743137623"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281231079387) 
 ---------
 
@@ -61,9 +61,9 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 
 ## `SETTING` ⚙️
 
-- Owner Number [Here](https://github.com/ImYanXiao/Elaina-MultiDevice/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/ImYanXiao/Elaina-Multidevice/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/ImYanXiao/Elaina-Multidevice/blob/master/config.js#L1)
+- Owner Number [Here](https://gtihub.com/yandex)
+- Owner Name [Here](https://gtihub.com/yandex)
+- Bot Name [Here](https://gtihub.com/yandex)
 ---------
 
 ## ```Heroku Buildpack```
@@ -71,8 +71,8 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 
 | BuildPack | LINK |
 |--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/rocketmobile/heroku-buildpack-imagemagick.git) |
+| **FFMPEG** |[here](https://gtihub.com/yandex) |
+| **IMAGEMAGICK** | [here](https://gtihub.com/yandex) |
 
 ## USER RAILWAY
 
